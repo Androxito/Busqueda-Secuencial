@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\bin\Debug\net7.0\Busqueda-Secuencial.exe
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\bin\Debug\net7.0\Busqueda-Secuencial.deps.json
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\bin\Debug\net7.0\Busqueda-Secuencial.runtimeconfig.json
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\bin\Debug\net7.0\Busqueda-Secuencial.dll
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\bin\Debug\net7.0\Busqueda-Secuencial.pdb
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.dll
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\refint\Busqueda-Secuencial.dll
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.pdb
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\Busqueda-Secuencial.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\AWOS\Practica-Examen-Unidad-3\Busqueda-Secuencial\Busqueda-Secuencial\obj\Debug\net7.0\ref\Busqueda-Secuencial.dll

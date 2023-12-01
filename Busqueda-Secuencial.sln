@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda-Secuencial", "Busqueda-Secuencial\Busqueda-Secuencial.csproj", "{C77B45F0-1108-4199-A14E-64D3C6B7931D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77B45F0-1108-4199-A14E-64D3C6B7931D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77B45F0-1108-4199-A14E-64D3C6B7931D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77B45F0-1108-4199-A14E-64D3C6B7931D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77B45F0-1108-4199-A14E-64D3C6B7931D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE4D53C-136C-4A29-B414-B399A97681FA}
+	EndGlobalSection
+EndGlobal
